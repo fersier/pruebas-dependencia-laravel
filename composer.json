@@ -4,7 +4,7 @@
     "license": "MIT",
     "require": {
         "laravel/passport": "^10.4"
-    }
+    },
     "autoload": {
 	    "psr-4": {
         	"Proyecto\\Math\\": "src/"
