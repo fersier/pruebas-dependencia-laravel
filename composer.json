@@ -1,0 +1,13 @@
+{
+    "name": "api/startup",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "laravel/passport": "^10.4"
+    }
+    "autoload": {
+	    "psr-4": {
+        	"Proyecto\\Math\\": "src/"
+    	}
+	}
+}
