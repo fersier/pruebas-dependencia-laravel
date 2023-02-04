@@ -1,5 +1,5 @@
 {
-    "name": "api/startup",
+    "name": "fersier/apistartup",
     "type": "library",
     "license": "MIT",
     "require": {
